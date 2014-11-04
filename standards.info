@@ -13,8 +13,13 @@ FILE NAMING
 
 PHP CLASS METHODS
     classes
-        naming convension           cl_ClassName
+        naming convention           cl_ClassName
     functions
-        naming convension           fx_FunctionName
+        naming convention           fx_FunctionName
 
+SQL CONVENTIONS
+    database                        db_DatabaseName
+    table                           tbl_TableName
+    queries                         qry_QueryName
+    
 
