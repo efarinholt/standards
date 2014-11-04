@@ -9,6 +9,12 @@ FILE NAMING
         internal page:              ContactUs.html
         extenal includes:           incl_footer.html
     .css
-    
+        TBD
+
+PHP CLASS METHODS
+    classes
+        naming convension           cl_ClassName
+    functions
+        naming convension           fx_FunctionName
 
 
