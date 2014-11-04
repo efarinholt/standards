@@ -1,0 +1,14 @@
+FILE NAMING
+    .php
+        landing page:               index.php
+        internal page:              GetStarted.php
+        external includes:          incl_header.php
+        class files:                cl_UserActions.php
+    .html
+        landing page:               index.html
+        internal page:              ContactUs.html
+        extenal includes:           incl_footer.html
+    .css
+    
+
+
